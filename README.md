@@ -11,7 +11,7 @@ All women, where I developed some new skills:
 - NLP (sentiment analysis, topic-modeling, web scraping);
 - SQL. 
 
-👀 I’m interested in change for a Data Science career!
+👀 Now I’m interested in change for a Data Science career!
 
 
 <!---
