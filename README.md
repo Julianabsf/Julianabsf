@@ -1,5 +1,5 @@
 Hi! 👋 
-my name Juliana. I’m a dentist that fell in love with data during my university years, and since then worked with it 
+my name is Juliana. I’m a dentist that fell in love with data during my university years, and since then worked with it 
 in the public health field.
 
 As I have a curious mind and wish to expand my knowledge. I started to study Data Science in an intensive boot camp at
